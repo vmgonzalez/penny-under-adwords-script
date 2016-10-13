@@ -1,6 +1,6 @@
 # Penny Under AdWords Script
 
-Use this AdWords script to lower Search campaign keyword bids by $0.01 less than their last 30-day avg. CPC. Credit to [Jason Ibarra](https://twitter.com/account/access) for introducing me to this simple yet effective AdWords optimization technique.
+Use this AdWords script to lower Search campaign keyword bids by $0.01 less than their last 30-day avg. CPC. Credit to [Jason Ibarra](https://twitter.com/jasonibarra) for introducing me to this simple yet effective AdWords optimization technique.
 
 Parameters:
 * Clicks >= 10
